@@ -1,13 +1,25 @@
 body {
-   ...........
+   <background-color:"#faf3e0">
+}
+
+general {
+      <font-color:"#2c3e50">
+   <font-type:"Arial, sans-serif">
 }
 
 h1 {
-   ...........
+ <font-size:"32px">
+   <font-color:"#0077b6">
+   <text-align:"center">
+}
+
+h2 {
+   <font-size:"24px">
+   <font-color:"#f4a261">
 }
 
 form {
-   ...........
+   <background-color:"#ffffff">
 }
 
 ............
